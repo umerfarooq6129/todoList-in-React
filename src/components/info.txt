@@ -1,0 +1,16 @@
+Task?
+1- Add a task into the list.
+2- Update the task by clicking over the task text.
+3- Delete the task from the list.
+4- Create a checkbox before the task text & when clicked Cross the task but not remove it from that screen.
+5- And Every task Box Background color should be different from other Box.
+6- If you Add a task and then refresh the page. The task should be there but not removed from that list
+
+How it work?
+1- fist of all (Add new) button will be disabled until you add any task( add any task and click on Add new button)
+2- click on update button to update the task
+3- Click on delete button to delete the task
+4- click on check box button when you check, the task will be cross but not remove
+5- whenever you add any task the background color will be different
+6- if we refresh the page but the added task should be there for this we created
+    localstorage where we add save the tasks
